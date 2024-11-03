@@ -19,4 +19,5 @@ Um conversor de moedas simples em Python que permite a conversão de valores ent
    ```bash
    git clone https://github.com/Davideveloper89/moeda-conversor
    cd moeda-conversor
+   pip install requests
    python3 conversor.py
